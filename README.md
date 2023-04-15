@@ -1,1 +1,1 @@
-# Programs - these programs are my capstones for my studies
+# Programs - these programs are from my studies of SE
